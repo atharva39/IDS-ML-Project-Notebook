@@ -7,7 +7,10 @@ This project implements an Intrusion Detection System using machine learning tec
 Make sure to install the required packages before running the project. You can do this by using the following command:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt # Windows
+```
+```bash
+pip3 install -r requirements.txt # macOS
 ```
 
 ## How to Run the Code

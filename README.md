@@ -3,6 +3,12 @@
 ## Overview
 This project implements an Intrusion Detection System using machine learning techniques. It allows users to customize the dataset for training the model.
 
+Clone the Repository
+```bash
+git clone https://github.com/atharva39/IDS-ML-Project-Notebook.git
+cd IDS-ML-Project-Notebook
+```
+
 ## Requirements
 Make sure to install the required packages before running the project. You can do this by using the following command:
 
@@ -35,3 +41,6 @@ To execute the code, follow these steps:
 Open the Jupyter Notebook or Python script where your IDS implementation resides.
 Run each cell in order, starting from Cell 1 through Cell 5, making sure to adjust any parameters as specified in the previous section.
 Monitor the output for any errors or logs to ensure everything runs smoothly.
+
+Contact Information
+For any inquiries or feedback, please contact **Atharva Patil** at atharvapersonal@gmail.com.

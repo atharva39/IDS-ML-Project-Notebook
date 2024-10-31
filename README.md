@@ -42,5 +42,5 @@ Open the Jupyter Notebook or Python script where your IDS implementation resides
 Run each cell in order, starting from Cell 1 through Cell 5, making sure to adjust any parameters as specified in the previous section.
 Monitor the output for any errors or logs to ensure everything runs smoothly.
 
-Contact Information
+### Contact Information
 For any inquiries or feedback, please contact **Atharva Patil** at atharvapersonal@gmail.com.
